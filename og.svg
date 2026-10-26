@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b0d12"/>
+  <circle cx="1000" cy="140" r="260" fill="#ff7a18" opacity="0.12"/>
+  <text x="80" y="300" font-family="Georgia, serif" font-size="96" fill="#e8e6e1" font-weight="600">Aguy</text>
+  <text x="80" y="370" font-family="Georgia, serif" font-size="40" fill="#ff7a18">aguy.web.id</text>
+  <text x="80" y="440" font-family="Arial, sans-serif" font-size="30" fill="#9aa0ab">Developer &amp; pembuat produk digital</text>
+</svg>
